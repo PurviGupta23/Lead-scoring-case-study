@@ -11,13 +11,13 @@ Inefficient Sales Process: The current sales process involves contacting all lea
 2, There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
 
 # steps taken
-Data Acquisition and Preprocessing
-Exploratory Data Analysis
-Feature Engineering (Dummy Variables)
-Train-Test Split
-Model Building (Logistic Regression)
-Model Prediction
-Model Evaluation
-Cutoff Optimization (ROC Curve)
-Prediction on Test Set
-Precision-Recall Analysis
+* Data Acquisition and Preprocessing
+* Exploratory Data Analysis
+* Feature Engineering (Dummy Variables)
+* Train-Test Split
+* Model Building (Logistic Regression)
+* Model Prediction
+* Model Evaluation
+* Cutoff Optimization (ROC Curve)
+* Prediction on Test Set
+* Precision-Recall Analysis
